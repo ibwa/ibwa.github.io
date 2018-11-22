@@ -1,0 +1,32 @@
+body
+{
+	background-color: rgba(166, 166, 166,0.3);
+}
+msg-error {
+  color: #c65848;
+}
+.g-recaptcha.error {
+  border: solid 2px #c64848;
+  padding:;
+  width: 19em;
+
+}
+.main
+{
+	height: 100px;
+	margin-top:10%;
+}
+.main button
+{
+	background-color: rgba(119, 119, 163,0.5);
+	padding: 1%;
+	border-radius: 10px;
+	margin-top: 2%;
+	border:1px solid black;
+}
+button:hover
+{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
